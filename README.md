@@ -1,17 +1,6 @@
 # Promedio_4
 Prueba de envio de codigo y de screenshot
 
-print (" ")  #Espacio a agregar
-print ("Lira Hernandez Dayana Yamileth: programa que saca el promedio con base a los numeros ingresados")  
-print (" ")
+![image](https://github.com/user-attachments/assets/bab22591-b4ad-4754-aee0-738cb6780f40)
+![image](https://github.com/user-attachments/assets/dc6b6d26-1873-43f5-8ed1-439ebbacb78c)
 
-a = float(input("Ingresa 1er numero"))   #Instruccion que pide que se ingrese un numero
-b = float(input("Ingresa 2do numero"))   #Instruccion que pide que se ingrese un numero
-c = float(input("Ingresa 3er numero"))   #Instruccion que pide que se ingrese un numero
-
-promedio = (a+b+c)/3  #Operacion a realizar
-print ("El resultado es:", promedio)  #Resultado de operacion 
-
-print (" ")
-
-![image](https://github.com/user-attachments/assets/b9b715d5-389b-4855-9b0e-2c589344c6ed)
